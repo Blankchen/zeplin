@@ -1,0 +1,49 @@
+.section {
+  padding: 20px;
+}
+
+.title-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+
+  .btn {
+    margin-right: 10px;
+  }
+
+  h1 {
+    margin-bottom: 0;
+  }
+}
+
+.tag-section {
+  margin-bottom: 20px;
+}
+
+.screen {
+  display: inline-flex;
+  flex-direction: column;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  width: 300px;
+  height: auto;
+  cursor: pointer;
+
+  &.hide {
+    display: none;
+  }
+
+  .title {
+    margin-left: 10px;
+  }
+
+  .image {
+    background-color: grey;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+  }
+}

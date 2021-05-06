@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+
+  color: white;
+  background-color: #303030;
+}
+
+
+.sticky {
+  position: sticky;
+  top: 0;
+  left: 0;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+  border: solid 1px #c2185b;
+  background-color: #303030;
+  z-index: 1;
+}

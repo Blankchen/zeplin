@@ -1,0 +1,24 @@
+<div *ngIf="projects$ | async as projects" class="section">
+  <div class="sticky">
+    <h1>Project: {{ projects.length }}</h1>
+    <app-search-input
+      #search
+      label="Search project"
+      placeholder="name"
+      searchBy="name"
+      [source]="projects"
+    ></app-search-input>
+  </div>
+  <mat-chip-list>
+    <mat-chip
+      color="primary"
+      *ngFor="let item of search.data$ | async"
+      [routerLink]="!!item.number_of_screens ? ['/project', item.id] : []"
+      class="project"
+    >
+      [{{ item.platform }}]
+      {{ item.name }}
+      (screens: {{ item.number_of_screens }})
+    </mat-chip>
+  </mat-chip-list>
+</div>

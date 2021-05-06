@@ -1,0 +1,55 @@
+<div *ngIf="projectScreenData$ | async as projectScreenData" class="section">
+  <div class="sticky">
+    <div class="title-section">
+      <button class="btn" mat-mini-fab color="primary" [routerLink]="['/']">
+        <mat-icon>arrow_back</mat-icon>
+      </button>
+      <h1>Screens: {{ projectScreenData.screens.length }}</h1>
+    </div>
+
+    <app-search-input
+      #search
+      label="Search screen"
+      placeholder="name"
+      searchBy="name"
+      [source]="projectScreenData.screens"
+    ></app-search-input>
+
+    <div class="tag-section">
+      <mat-chip-list>
+        <mat-chip
+          *ngFor="let item of projectScreenData.tags"
+          (click)="selectTag(item)"
+          color="primary"
+          [selected]="selectedTag === item"
+          >{{ item }}</mat-chip
+        >
+      </mat-chip-list>
+    </div>
+  </div>
+
+  <div
+    *ngFor="let item of search.data$ | async"
+    [routerLink]="['/screen', projectId, item.id]"
+    class="screen"
+    [class.hide]="isHideScreen(item)"
+  >
+    <span
+      class="title"
+      [matBadge]="'v' + item.number_of_versions"
+      matBadgePosition="before"
+      matBadgeOverlap="false"
+      matBadgeSize="small"
+    >
+      {{ item.name }}
+    </span>
+
+    <a class="image">
+      <img
+        [height]="(item.image.height * 300) / item.image.width"
+        [src]="item.image.original_url"
+        loading="lazy"
+      />
+    </a>
+  </div>
+</div>

@@ -1,0 +1,50 @@
+<div *ngIf="screenVersions$ | async as screenVersions" class="section">
+  <div *ngIf="isLoading" class="loading-overlay">
+    <mat-spinner></mat-spinner>
+  </div>
+  <div class="sticky">
+    <div class="title-section">
+      <button
+        class="btn"
+        mat-mini-fab
+        color="primary"
+        [routerLink]="['/project', projectId]"
+      >
+        <mat-icon>arrow_back</mat-icon>
+      </button>
+      <h1>Screen versions: {{ screenVersions.length }}</h1>
+    </div>
+
+    <div>
+      <h2>
+        Choose two version to compare (note: need to care about select order)
+      </h2>
+      <button
+        mat-flat-button
+        color="primary"
+        [disabled]="selectVersion.isButtonDisable"
+        (click)="getVersionComparison()"
+      >
+        Compare select version
+      </button>
+    </div>
+  </div>
+  <div
+    *ngFor="let item of screenVersions"
+    (click)="selectVersion.selectScreen(item)"
+    class="screen-version"
+    [class.active]="selectVersion.isScreenActive(item)"
+  >
+    {{ item.created * 1000 | date: "YYYY-MM-dd hh:mm:ss" }}
+    <a class="image">
+      <span *ngIf="selectVersion.getOrder(item) as index" class="index">{{
+        index
+      }}</span>
+      <img
+        [height]="(item.height * 300) / item.width"
+        [src]="item.image_url"
+        loading="lazy"
+      />
+    </a>
+  </div>
+</div>

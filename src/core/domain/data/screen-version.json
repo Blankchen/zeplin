@@ -1,0 +1,1458 @@
+{
+  "id": "5e33f8e1b5c7427b6ae8b036",
+  "created": 1580464353,
+  "creator": {
+    "id": "5d37f87c86aaef631adeff64",
+    "email": "5d37f87c86aaef631adeff64@user.zeplin.io",
+    "username": "rctdesign",
+    "last_seen": 1618971392
+  },
+  "commit": {
+    "color": { "r": 254, "b": 51, "g": 207, "a": 1 },
+    "author": {
+      "id": "5d37f87c86aaef631adeff64",
+      "email": "5d37f87c86aaef631adeff64@user.zeplin.io",
+      "username": "rctdesign",
+      "last_seen": 1618971392
+    }
+  },
+  "image_url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/screens/CED6E908-34A9-42CF-871F-797F4913D855.png?Expires=1621563473&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=b15hLy5wFFX21AkT0seMugfS9fSWNYdfc1DxpMIMjnxUr6yWaXlRjtt-C64ctKB~XQyi1wQZiKC2G6otAlOfjRrSFwUIZM~1sX4MSN45dAuBG~iSblvsUvjHDF~IABzM36hBekpnBak4sAFM5UbG30VAbTciVnHP921Iof~jy3Y6HhNTkdqwOZgKcLFzsVp5qsYS~iN2UUeti~5EX1EfA4~bGl22uahgs~N6WNLfk2-At1WLlakmrytrPqTAr~kcFrGBTmTw-qLipVG-uOmkckovQY1s6v6CnVzgFPZMNLFfTULuoiqpmxD6wA~1FjgdoH4acUFsxEDMwpLcGvbHDg__",
+  "thumbnails": {
+    "small": "https://img.zeplin.io/p/5da919843cd929655f943016/screens/CED6E908-34A9-42CF-871F-797F4913D855.png?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyYXdLZXkiOiI1ZGE5MTk4NDNjZDkyOTY1NWY5NDMwMTYvc2NyZWVucy9DRUQ2RTkwOC0zNEE5LTQyQ0YtODcxRi03OTdGNDkxM0Q4NTUucG5nIiwicXVlcnkiOiJ3PTI1NiIsImlhdCI6MTYxODk3MTQxMywiZXhwIjoxNjIxNTYzNDczfQ.a1LegPeC_8TrWjhVTQzPbFlTJAwgY9FY_qKu1ZOIjHA&w=256",
+    "medium": "https://img.zeplin.io/p/5da919843cd929655f943016/screens/CED6E908-34A9-42CF-871F-797F4913D855.png?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyYXdLZXkiOiI1ZGE5MTk4NDNjZDkyOTY1NWY5NDMwMTYvc2NyZWVucy9DRUQ2RTkwOC0zNEE5LTQyQ0YtODcxRi03OTdGNDkxM0Q4NTUucG5nIiwicXVlcnkiOiJ3PTUxMiIsImlhdCI6MTYxODk3MTQxMywiZXhwIjoxNjIxNTYzNDczfQ.Q-sxpLzeOGFuFgk9WkJay9jWw_rNu382L-QPH3idZVU&w=512",
+    "large": "https://img.zeplin.io/p/5da919843cd929655f943016/screens/CED6E908-34A9-42CF-871F-797F4913D855.png?key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyYXdLZXkiOiI1ZGE5MTk4NDNjZDkyOTY1NWY5NDMwMTYvc2NyZWVucy9DRUQ2RTkwOC0zNEE5LTQyQ0YtODcxRi03OTdGNDkxM0Q4NTUucG5nIiwicXVlcnkiOiJ3PTEwMjQiLCJpYXQiOjE2MTg5NzE0MTMsImV4cCI6MTYyMTU2MzQ3M30.QHPr7pHsD4M3rODMqydIMGW8tTq3zndAYeoopyux_xw&w=1024"
+  },
+  "source": "sketch",
+  "width": 375,
+  "height": 2117,
+  "background_color": { "r": 0, "b": 0, "g": 0, "a": 1 },
+  "density_scale": 1,
+  "links": [],
+  "layers": [
+    {
+      "id": "5e33f8e1b5c7427b6ae8b038",
+      "source_id": "A720F452-1CFF-4563-A59A-5B2285270487",
+      "type": "group",
+      "name": "Header mobile",
+      "rect": {
+        "y": 0,
+        "x": 0,
+        "width": 375,
+        "height": 86,
+        "absolute": { "x": 0, "y": 0 }
+      },
+      "fills": [],
+      "borders": [],
+      "shadows": [],
+      "opacity": 1,
+      "blend_mode": "normal",
+      "border_radius": 0,
+      "rotation": 0,
+      "exportable": false,
+      "layers": [
+        {
+          "id": "5e33f8e1b5c7427b6ae8b039",
+          "source_id": "FD0FA04D-FCFF-4478-AC3E-0374A9D8BD1A",
+          "type": "group",
+          "name": "mg_asia",
+          "rect": {
+            "y": 18,
+            "x": 117,
+            "width": 142,
+            "height": 50,
+            "absolute": { "x": 117, "y": 18 }
+          },
+          "fills": [],
+          "borders": [],
+          "shadows": [],
+          "opacity": 1,
+          "blend_mode": "normal",
+          "border_radius": 0,
+          "rotation": 0,
+          "exportable": true,
+          "layers": [
+            {
+              "id": "5e33f8e1b5c7427b6ae8b03a",
+              "source_id": "4C40ACA0-E1AA-4743-912A-42C475C377F5",
+              "type": "group",
+              "name": "Group",
+              "rect": {
+                "y": 3,
+                "x": 12,
+                "width": 120,
+                "height": 43,
+                "absolute": { "x": 129, "y": 21 }
+              },
+              "fills": [],
+              "borders": [],
+              "shadows": [],
+              "opacity": 1,
+              "blend_mode": "normal",
+              "border_radius": 0,
+              "rotation": 0,
+              "exportable": false,
+              "layers": [
+                {
+                  "id": "5e33f8e1b5c7427b6ae8b03b",
+                  "source_id": "D640B9D2-84D3-460A-A96F-AAF1D62B89A0",
+                  "type": "shape",
+                  "name": "Image 1",
+                  "rect": {
+                    "y": 0,
+                    "x": 0,
+                    "width": 43,
+                    "height": 42,
+                    "absolute": { "x": 129, "y": 21 }
+                  },
+                  "fills": [],
+                  "borders": [],
+                  "shadows": [],
+                  "opacity": 1,
+                  "blend_mode": "normal",
+                  "border_radius": 0,
+                  "rotation": 0,
+                  "exportable": false
+                },
+                {
+                  "id": "5e33f8e1b5c7427b6ae8b03c",
+                  "source_id": "D1A2297E-6D33-43C3-B28C-7EA8A4639052",
+                  "type": "shape",
+                  "name": "Image 1",
+                  "rect": {
+                    "y": 17,
+                    "x": 52,
+                    "width": 67,
+                    "height": 15,
+                    "absolute": { "x": 181, "y": 38 }
+                  },
+                  "fills": [
+                    {
+                      "type": "color",
+                      "color": { "r": 255, "g": 255, "b": 255, "a": 1 },
+                      "opacity": 1,
+                      "blend_mode": "normal"
+                    }
+                  ],
+                  "borders": [],
+                  "shadows": [],
+                  "opacity": 1,
+                  "blend_mode": "normal",
+                  "border_radius": 0,
+                  "rotation": 0,
+                  "exportable": false
+                }
+              ]
+            }
+          ],
+          "component_name": "logos/header/mg_asia"
+        },
+        {
+          "id": "5e33f8e1b5c7427b6ae8b03d",
+          "source_id": "48E02275-F6E9-48AD-AE8B-C48363B57F06",
+          "type": "group",
+          "name": "ic_menu",
+          "rect": {
+            "y": 21,
+            "x": 316,
+            "width": 44,
+            "height": 44,
+            "absolute": { "x": 316, "y": 21 }
+          },
+          "fills": [],
+          "borders": [],
+          "shadows": [],
+          "opacity": 1,
+          "blend_mode": "normal",
+          "border_radius": 0,
+          "rotation": 0,
+          "exportable": true,
+          "layers": [
+            {
+              "id": "5e33f8e1b5c7427b6ae8b03e",
+              "source_id": "2237B779-5F9B-4AC9-A0E7-0E61E2A28120",
+              "type": "shape",
+              "name": "Combined Shape",
+              "rect": {
+                "y": 12,
+                "x": 9,
+                "width": 26,
+                "height": 21,
+                "absolute": { "x": 325, "y": 33 }
+              },
+              "fills": [
+                {
+                  "type": "color",
+                  "color": { "r": 255, "g": 255, "b": 255, "a": 1 },
+                  "opacity": 1,
+                  "blend_mode": "normal"
+                }
+              ],
+              "borders": [],
+              "shadows": [],
+              "opacity": 1,
+              "blend_mode": "normal",
+              "border_radius": 0,
+              "rotation": 0,
+              "exportable": false
+            }
+          ],
+          "component_name": "icon/line/ic_menu"
+        },
+        {
+          "id": "5e33f8e1b5c7427b6ae8b03f",
+          "source_id": "9A4C5DA7-D077-414D-80A2-68A1809E2BA7",
+          "type": "group",
+          "name": "ic_login",
+          "rect": {
+            "y": 22,
+            "x": 15,
+            "width": 42,
+            "height": 42,
+            "absolute": { "x": 15, "y": 22 }
+          },
+          "fills": [],
+          "borders": [],
+          "shadows": [],
+          "opacity": 1,
+          "blend_mode": "normal",
+          "border_radius": 0,
+          "rotation": 0,
+          "exportable": true,
+          "layers": [
+            {
+              "id": "5e33f8e1b5c7427b6ae8b040",
+              "source_id": "CD6B15B5-21B4-4606-8F3B-A0B5F7EDEC76",
+              "type": "shape",
+              "name": "Shape",
+              "rect": {
+                "y": 4,
+                "x": 4,
+                "width": 35,
+                "height": 35,
+                "absolute": { "x": 19, "y": 26 }
+              },
+              "fills": [
+                {
+                  "type": "color",
+                  "color": { "r": 111, "g": 111, "b": 111, "a": 1 },
+                  "opacity": 1,
+                  "blend_mode": "normal"
+                }
+              ],
+              "borders": [],
+              "shadows": [],
+              "opacity": 1,
+              "blend_mode": "normal",
+              "border_radius": 0,
+              "rotation": 0,
+              "exportable": false
+            }
+          ],
+          "component_name": "icon/flat/ic_login"
+        }
+      ],
+      "component_name": "bar/Header mobile"
+    },
+    {
+      "id": "5e33f8e1b5c7427b6ae8b041",
+      "source_id": "EA95F0C2-EA15-4260-808B-C0F83B7EF57D",
+      "type": "group",
+      "name": "Group",
+      "rect": {
+        "y": 85,
+        "x": 1,
+        "width": 374,
+        "height": 346,
+        "absolute": { "x": 1, "y": 85 }
+      },
+      "fills": [],
+      "borders": [],
+      "shadows": [],
+      "opacity": 1,
+      "blend_mode": "normal",
+      "border_radius": 0,
+      "rotation": 0,
+      "exportable": false,
+      "layers": [
+        {
+          "id": "5e33f8e1b5c7427b6ae8b042",
+          "source_id": "E301F6EA-DA73-44C2-B60E-39BB302ED4D4",
+          "type": "shape",
+          "name": "Rectangle",
+          "rect": {
+            "y": 0,
+            "x": 0,
+            "width": 374,
+            "height": 346,
+            "absolute": { "x": 1, "y": 85 }
+          },
+          "fills": [
+            {
+              "type": "color",
+              "color": { "r": 26, "g": 26, "b": 26, "a": 1 },
+              "opacity": 1,
+              "blend_mode": "normal"
+            }
+          ],
+          "borders": [],
+          "shadows": [],
+          "opacity": 1,
+          "blend_mode": "normal",
+          "border_radius": 0,
+          "rotation": 0,
+          "exportable": false
+        },
+        {
+          "id": "5e33f8e1b5c7427b6ae8b043",
+          "source_id": "38295898-2BDD-49B5-9554-121B0D534593",
+          "type": "text",
+          "name": "TItle",
+          "rect": {
+            "y": 60,
+            "x": 26,
+            "width": 334,
+            "height": 135,
+            "absolute": { "x": 27, "y": 145 }
+          },
+          "fills": [],
+          "borders": [],
+          "shadows": [],
+          "opacity": 1,
+          "blend_mode": "normal",
+          "border_radius": 0,
+          "rotation": 0,
+          "exportable": false,
+          "content": "OZ's book is well received and evolved",
+          "text_styles": [
+            {
+              "range": { "location": 0, "length": 38 },
+              "style": {
+                "postscript_name": "Roboto-Black",
+                "font_family": "Roboto",
+                "font_size": 43,
+                "font_weight": 900,
+                "font_style": "normal",
+                "font_stretch": 1,
+                "line_height": 45,
+                "letter_spacing": 0,
+                "text_align": "center",
+                "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+              }
+            }
+          ]
+        },
+        {
+          "id": "5e33f8e1b5c7427b6ae8b044",
+          "source_id": "60387ED9-AD2A-4975-9C70-D6DC089A0297",
+          "type": "text",
+          "name": "TItle Copy",
+          "rect": {
+            "y": 205,
+            "x": 26,
+            "width": 334,
+            "height": 81,
+            "absolute": { "x": 27, "y": 290 }
+          },
+          "fills": [],
+          "borders": [],
+          "shadows": [],
+          "opacity": 1,
+          "blend_mode": "normal",
+          "border_radius": 0,
+          "rotation": 0,
+          "exportable": false,
+          "content": "Lucky Roulette is crazy, and the Gemstone Gold Award is not over!",
+          "text_styles": [
+            {
+              "range": { "location": 0, "length": 65 },
+              "style": {
+                "postscript_name": "Roboto-Regular",
+                "font_family": "Roboto",
+                "font_size": 23,
+                "font_weight": 400,
+                "font_style": "normal",
+                "font_stretch": 1,
+                "letter_spacing": 0,
+                "text_align": "center",
+                "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e33f8e1b5c7427b6ae8b045",
+      "source_id": "89E9B03B-426A-46F8-8E38-762DBE443D52",
+      "type": "text",
+      "name": "Article",
+      "rect": {
+        "y": 664,
+        "x": 28,
+        "width": 320,
+        "height": 988,
+        "absolute": { "x": 28, "y": 664 }
+      },
+      "fills": [],
+      "borders": [],
+      "shadows": [],
+      "opacity": 1,
+      "blend_mode": "normal",
+      "border_radius": 0,
+      "rotation": 0,
+      "exportable": false,
+      "content": "Following the successful launch of Zombie Blackjack last July, creative content studio Bunfox Games adds yet another blackjack variant to its portfolio of entertaining and innovative games. The release of Lucky Cat Blackjack marks the second collaboration between the inventive studio and renowned game creator Geoff Hall and hones the content supplier's strength in bringing creative titles to the modern gambler. \n\nFeaturing iconic Japanese Lucky Cat, Maneki-neko, and packed with lucky charms, Lucky Cat Blackjack's uniquely rewarding bonus feature, the Lucky Cat Dice Bonus, is triggered when the dealer hits 22. Four dice are rolled with the chance of rewarding up to 100x when the lucky cat paw symbol appears on all the dice, allowing players to experience the thrills of hitting big payouts in a classic blackjack setting. \n\n\"We're all very excited to introduce Lucky Cat Blackjack to our players. As a Blackjack player myself, I knew I wanted to make this game as soon as Geoff showed the concept to me. Lucky Cat Blackjack preserves what I love most about Blackjack in the base gameplay but adds a thrilling Lucky Cat Dice bonus feature and a rich game theme that is tightly woven into the spirit of this game. We spent a great deal of time designing the art, visual effects and player interactions to bring the theme to life and give our players an exceptional gaming experience like no other Blackjack they've ever played. We can't wait for you to play this game!\" said Michael Lee, Chief Innovation Officer at Genesis/Bunfox.",
+      "text_styles": [
+        {
+          "range": { "location": 0, "length": 1538 },
+          "style": {
+            "postscript_name": "Roboto-Regular",
+            "font_family": "Roboto",
+            "font_size": 16,
+            "font_weight": 400,
+            "font_style": "normal",
+            "font_stretch": 1,
+            "line_height": 26,
+            "letter_spacing": 0,
+            "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e33f8e1b5c7427b6ae8b046",
+      "source_id": "25E221F4-3D0D-4CD3-904C-98810C3B691C",
+      "type": "text",
+      "name": "10",
+      "rect": {
+        "y": 595,
+        "x": 28,
+        "width": 320,
+        "height": 66,
+        "absolute": { "x": 28, "y": 595 }
+      },
+      "fills": [],
+      "borders": [],
+      "shadows": [],
+      "opacity": 1,
+      "blend_mode": "normal",
+      "border_radius": 0,
+      "rotation": 0,
+      "exportable": false,
+      "content": "Event time: \n2019/10/14 - 2019/12/25",
+      "text_styles": [
+        {
+          "range": { "location": 0, "length": 36 },
+          "style": {
+            "postscript_name": "Roboto-Black",
+            "font_family": "Roboto",
+            "font_size": 20,
+            "font_weight": 900,
+            "font_style": "normal",
+            "font_stretch": 1,
+            "line_height": 33,
+            "letter_spacing": 0.1739130434782609,
+            "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e33f8e1b5c7427b6ae8b047",
+      "source_id": "FA3B00A6-A75C-4AE4-A96A-36998358AD70",
+      "type": "group",
+      "name": "Group 2",
+      "rect": {
+        "y": 461,
+        "x": 28,
+        "width": 320,
+        "height": 104,
+        "absolute": { "x": 28, "y": 461 }
+      },
+      "fills": [],
+      "borders": [],
+      "shadows": [],
+      "opacity": 1,
+      "blend_mode": "normal",
+      "border_radius": 0,
+      "rotation": 0,
+      "exportable": false,
+      "layers": [
+        {
+          "id": "5e33f8e1b5c7427b6ae8b048",
+          "source_id": "E83A8709-E62B-4503-BB4D-80B4D813C1AF",
+          "type": "shape",
+          "name": "Oct_banner_desktop_864x280_BookofOz",
+          "rect": {
+            "y": 0,
+            "x": 0,
+            "width": 320,
+            "height": 104,
+            "absolute": { "x": 28, "y": 461 }
+          },
+          "fills": [],
+          "borders": [],
+          "shadows": [],
+          "opacity": 1,
+          "blend_mode": "normal",
+          "border_radius": 0,
+          "rotation": 0,
+          "exportable": false
+        },
+        {
+          "id": "5e33f8e1b5c7427b6ae8b049",
+          "source_id": "5B47F0B7-FB25-48A4-935A-4AE57071B066",
+          "type": "group",
+          "name": "Group",
+          "rect": {
+            "y": 0,
+            "x": 154,
+            "width": 72,
+            "height": 18,
+            "absolute": { "x": 182, "y": 461 }
+          },
+          "fills": [],
+          "borders": [],
+          "shadows": [],
+          "opacity": 1,
+          "blend_mode": "normal",
+          "border_radius": 0,
+          "rotation": 0,
+          "exportable": false,
+          "layers": [
+            {
+              "id": "5e33f8e1b5c7427b6ae8b04a",
+              "source_id": "CB6A285D-FE7A-4951-A85C-C6A914304FC6",
+              "type": "shape",
+              "name": "Rectangle",
+              "rect": {
+                "y": 0,
+                "x": 0,
+                "width": 72,
+                "height": 17,
+                "absolute": { "x": 182, "y": 461 }
+              },
+              "fills": [
+                {
+                  "type": "color",
+                  "color": { "r": 74, "g": 230, "b": 175, "a": 1 },
+                  "opacity": 1,
+                  "blend_mode": "normal"
+                }
+              ],
+              "borders": [],
+              "shadows": [],
+              "opacity": 1,
+              "blend_mode": "normal",
+              "border_radius": 0,
+              "rotation": 0,
+              "exportable": false
+            },
+            {
+              "id": "5e33f8e1b5c7427b6ae8b04b",
+              "source_id": "5C54B088-D498-43B2-8FFB-FDCC6B746CB6",
+              "type": "text",
+              "name": "tag",
+              "rect": {
+                "y": 3,
+                "x": 6,
+                "width": 61,
+                "height": 11,
+                "absolute": { "x": 188, "y": 464 }
+              },
+              "fills": [],
+              "borders": [],
+              "shadows": [],
+              "opacity": 1,
+              "blend_mode": "normal",
+              "border_radius": 0,
+              "rotation": 0,
+              "exportable": false,
+              "content": "10/14 ~ 12/25",
+              "text_styles": [
+                {
+                  "range": { "location": 0, "length": 13 },
+                  "style": {
+                    "postscript_name": "Roboto-Black",
+                    "font_family": "Roboto",
+                    "font_size": 9.386666666666667,
+                    "font_weight": 900,
+                    "font_style": "normal",
+                    "font_stretch": 1,
+                    "letter_spacing": 0,
+                    "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e33f8e1b5c7427b6ae8b04c",
+      "source_id": "BB471DAE-44FC-467D-B4F5-D2D5B70B2C48",
+      "type": "group",
+      "name": "default secondary",
+      "rect": {
+        "y": 1682,
+        "x": 121,
+        "width": 135,
+        "height": 38,
+        "absolute": { "x": 121, "y": 1682 }
+      },
+      "fills": [],
+      "borders": [],
+      "shadows": [],
+      "opacity": 1,
+      "blend_mode": "normal",
+      "border_radius": 0,
+      "rotation": 0,
+      "exportable": false,
+      "layers": [
+        {
+          "id": "5e33f8e1b5c7427b6ae8b04d",
+          "source_id": "B668729C-8742-4298-AE79-A0946B410776",
+          "type": "group",
+          "name": "default",
+          "rect": {
+            "y": 0,
+            "x": 0,
+            "width": 135,
+            "height": 38,
+            "absolute": { "x": 121, "y": 1682 }
+          },
+          "fills": [],
+          "borders": [],
+          "shadows": [],
+          "opacity": 1,
+          "blend_mode": "normal",
+          "border_radius": 0,
+          "rotation": 0,
+          "exportable": false,
+          "layers": [
+            {
+              "id": "5e33f8e1b5c7427b6ae8b04e",
+              "source_id": "9B11F12A-B2C6-4516-AA6B-DEB45D8CE446",
+              "type": "shape",
+              "name": "Rectangle",
+              "rect": {
+                "y": 0,
+                "x": 0,
+                "width": 135,
+                "height": 38,
+                "absolute": { "x": 121, "y": 1682 }
+              },
+              "fills": [],
+              "borders": [
+                {
+                  "position": "inside",
+                  "thickness": 1,
+                  "fill": {
+                    "type": "color",
+                    "color": { "r": 128, "g": 128, "b": 128, "a": 1 },
+                    "opacity": 1,
+                    "blend_mode": "normal"
+                  }
+                }
+              ],
+              "shadows": [],
+              "opacity": 1,
+              "blend_mode": "normal",
+              "border_radius": 22,
+              "rotation": 0,
+              "exportable": false
+            },
+            {
+              "id": "5e33f8e1b5c7427b6ae8b04f",
+              "source_id": "C9EF0696-E413-409F-AE98-14BA9AC08F57",
+              "type": "text",
+              "name": "More",
+              "rect": {
+                "y": 11,
+                "x": 19,
+                "width": 97,
+                "height": 18,
+                "absolute": { "x": 140, "y": 1693 }
+              },
+              "fills": [],
+              "borders": [],
+              "shadows": [],
+              "opacity": 1,
+              "blend_mode": "normal",
+              "border_radius": 0,
+              "rotation": 0,
+              "exportable": false,
+              "content": "Back",
+              "text_styles": [
+                {
+                  "range": { "location": 0, "length": 4 },
+                  "style": {
+                    "postscript_name": "Roboto-Medium",
+                    "font_family": "Roboto",
+                    "font_size": 15,
+                    "font_weight": 500,
+                    "font_style": "normal",
+                    "font_stretch": 1,
+                    "letter_spacing": 0,
+                    "text_align": "center",
+                    "color": { "r": 128, "g": 128, "b": 128, "a": 1 }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "component_name": "button/default secondary"
+    },
+    {
+      "id": "5e33f8e1b5c7427b6ae8b050",
+      "source_id": "28BFB602-D263-4DB0-8530-FC95B5ED84EB",
+      "type": "group",
+      "name": "mobile_phase0",
+      "rect": {
+        "y": 1770,
+        "x": 1,
+        "width": 374,
+        "height": 347,
+        "absolute": { "x": 1, "y": 1770 }
+      },
+      "fills": [],
+      "borders": [],
+      "shadows": [],
+      "opacity": 1,
+      "blend_mode": "normal",
+      "border_radius": 0,
+      "rotation": 0,
+      "exportable": false,
+      "layers": [
+        {
+          "id": "5e33f8e1b5c7427b6ae8b051",
+          "source_id": "3B8A5CCB-F4E9-43FD-9D24-DB3598FDA145",
+          "type": "group",
+          "name": "mobile",
+          "rect": {
+            "y": 0,
+            "x": 0,
+            "width": 374,
+            "height": 347,
+            "absolute": { "x": 1, "y": 1770 }
+          },
+          "fills": [],
+          "borders": [],
+          "shadows": [],
+          "opacity": 1,
+          "blend_mode": "normal",
+          "border_radius": 0,
+          "rotation": 0,
+          "exportable": false,
+          "layers": [
+            {
+              "id": "5e33f8e1b5c7427b6ae8b052",
+              "source_id": "950F0E66-A65B-4BCB-91BD-59674D9F9421",
+              "type": "shape",
+              "name": "Rectangle Copy 13",
+              "rect": {
+                "y": 0,
+                "x": 0,
+                "width": 374,
+                "height": 347,
+                "absolute": { "x": 1, "y": 1770 }
+              },
+              "fills": [
+                {
+                  "type": "color",
+                  "color": { "r": 26, "g": 26, "b": 26, "a": 1 },
+                  "opacity": 1,
+                  "blend_mode": "normal"
+                }
+              ],
+              "borders": [],
+              "shadows": [],
+              "opacity": 1,
+              "blend_mode": "normal",
+              "border_radius": 0,
+              "rotation": 0,
+              "exportable": false
+            },
+            {
+              "id": "5e33f8e1b5c7427b6ae8b053",
+              "source_id": "5E4F1CF7-AB2A-4821-9883-111734A19F48",
+              "type": "group",
+              "name": "Group 2",
+              "rect": {
+                "y": 83.00000000000001,
+                "x": 142,
+                "width": 90,
+                "height": 124.0000000000001,
+                "absolute": { "x": 143, "y": 1853 }
+              },
+              "fills": [],
+              "borders": [],
+              "shadows": [],
+              "opacity": 1,
+              "blend_mode": "normal",
+              "border_radius": 0,
+              "rotation": 0,
+              "exportable": false,
+              "layers": [
+                {
+                  "id": "5e33f8e1b5c7427b6ae8b054",
+                  "source_id": "BC89336C-4995-4164-AB55-0B5D03845076",
+                  "type": "text",
+                  "name": "News Copy 2",
+                  "rect": {
+                    "y": 0,
+                    "x": 26,
+                    "width": 39,
+                    "height": 16,
+                    "absolute": { "x": 169, "y": 1853 }
+                  },
+                  "fills": [],
+                  "borders": [],
+                  "shadows": [],
+                  "opacity": 1,
+                  "blend_mode": "normal",
+                  "border_radius": 0,
+                  "rotation": 0,
+                  "exportable": false,
+                  "content": "News",
+                  "text_styles": [
+                    {
+                      "range": { "location": 0, "length": 4 },
+                      "style": {
+                        "postscript_name": "Roboto-Medium",
+                        "font_family": "Roboto",
+                        "font_size": 14,
+                        "font_weight": 500,
+                        "font_style": "normal",
+                        "font_stretch": 1,
+                        "text_align": "center",
+                        "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "5e33f8e1b5c7427b6ae8b055",
+                  "source_id": "FC13AD9D-CD71-49AB-8914-ADA30DFF8669",
+                  "type": "text",
+                  "name": "Games Copy 2",
+                  "rect": {
+                    "y": 36,
+                    "x": 21,
+                    "width": 48,
+                    "height": 16,
+                    "absolute": { "x": 164, "y": 1889 }
+                  },
+                  "fills": [],
+                  "borders": [],
+                  "shadows": [],
+                  "opacity": 1,
+                  "blend_mode": "normal",
+                  "border_radius": 0,
+                  "rotation": 0,
+                  "exportable": false,
+                  "content": "Games",
+                  "text_styles": [
+                    {
+                      "range": { "location": 0, "length": 5 },
+                      "style": {
+                        "postscript_name": "Roboto-Medium",
+                        "font_family": "Roboto",
+                        "font_size": 14,
+                        "font_weight": 500,
+                        "font_style": "normal",
+                        "font_stretch": 1,
+                        "text_align": "center",
+                        "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "5e33f8e1b5c7427b6ae8b056",
+                  "source_id": "CA9A516D-C7EC-4BBB-804B-06B42A72C15F",
+                  "type": "text",
+                  "name": "Promotions Copy 2",
+                  "rect": {
+                    "y": 72,
+                    "x": 0,
+                    "width": 90,
+                    "height": 16,
+                    "absolute": { "x": 143, "y": 1925 }
+                  },
+                  "fills": [],
+                  "borders": [],
+                  "shadows": [],
+                  "opacity": 1,
+                  "blend_mode": "normal",
+                  "border_radius": 0,
+                  "rotation": 0,
+                  "exportable": false,
+                  "content": "Promotions",
+                  "text_styles": [
+                    {
+                      "range": { "location": 0, "length": 10 },
+                      "style": {
+                        "postscript_name": "Roboto-Medium",
+                        "font_family": "Roboto",
+                        "font_size": 14,
+                        "font_weight": 500,
+                        "font_style": "normal",
+                        "font_stretch": 1,
+                        "text_align": "center",
+                        "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "5e33f8e1b5c7427b6ae8b057",
+                  "source_id": "0878815C-5EEE-4DC0-8211-079DE411F6D9",
+                  "type": "text",
+                  "name": "Contact",
+                  "rect": {
+                    "y": 108,
+                    "x": 14,
+                    "width": 63,
+                    "height": 16,
+                    "absolute": { "x": 157, "y": 1961 }
+                  },
+                  "fills": [],
+                  "borders": [],
+                  "shadows": [],
+                  "opacity": 1,
+                  "blend_mode": "normal",
+                  "border_radius": 0,
+                  "rotation": 0,
+                  "exportable": false,
+                  "content": "Contact",
+                  "text_styles": [
+                    {
+                      "range": { "location": 0, "length": 7 },
+                      "style": {
+                        "postscript_name": "Roboto-Medium",
+                        "font_family": "Roboto",
+                        "font_size": 14,
+                        "font_weight": 500,
+                        "font_style": "normal",
+                        "font_stretch": 1,
+                        "text_align": "center",
+                        "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "5e33f8e1b5c7427b6ae8b058",
+              "source_id": "C8026ECC-3426-451E-B495-27AFBF01EA6A",
+              "type": "group",
+              "name": "Group",
+              "rect": {
+                "y": 231,
+                "x": 27,
+                "width": 320,
+                "height": 98,
+                "absolute": { "x": 28, "y": 2001 }
+              },
+              "fills": [],
+              "borders": [],
+              "shadows": [],
+              "opacity": 1,
+              "blend_mode": "normal",
+              "border_radius": 0,
+              "rotation": 0,
+              "exportable": false,
+              "layers": [
+                {
+                  "id": "5e33f8e1b5c7427b6ae8b059",
+                  "source_id": "0D37346B-CC03-40F8-ADB0-AD1B08EC6018",
+                  "type": "text",
+                  "name": "All Rights Reserved.",
+                  "rect": {
+                    "y": 15,
+                    "x": 2,
+                    "width": 318,
+                    "height": 42,
+                    "absolute": { "x": 30, "y": 2016 }
+                  },
+                  "fills": [],
+                  "borders": [],
+                  "shadows": [],
+                  "opacity": 1,
+                  "blend_mode": "normal",
+                  "border_radius": 0,
+                  "rotation": 0,
+                  "exportable": false,
+                  "content": "All Rights Reserved. Please note that this website is designed solely for demostration purpose. No real money bets can take place on this site",
+                  "text_styles": [
+                    {
+                      "range": { "location": 0, "length": 142 },
+                      "style": {
+                        "postscript_name": "Roboto-Regular",
+                        "font_family": "Roboto",
+                        "font_size": 12,
+                        "font_weight": 400,
+                        "font_style": "normal",
+                        "font_stretch": 1,
+                        "text_align": "center",
+                        "color": { "r": 97, "g": 97, "b": 97, "a": 1 }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "id": "5e33f8e1b5c7427b6ae8b05a",
+                  "source_id": "9361FAF3-1A81-456C-97F9-D039D6694033",
+                  "type": "shape",
+                  "name": "Line 2 Copy",
+                  "rect": {
+                    "y": 0,
+                    "x": 0,
+                    "width": 320,
+                    "height": 1,
+                    "absolute": { "x": 28, "y": 2001 }
+                  },
+                  "fills": [],
+                  "borders": [
+                    {
+                      "position": "center",
+                      "thickness": 1,
+                      "fill": {
+                        "type": "color",
+                        "color": { "r": 54, "g": 54, "b": 54, "a": 1 },
+                        "opacity": 1,
+                        "blend_mode": "normal"
+                      }
+                    }
+                  ],
+                  "shadows": [],
+                  "opacity": 1,
+                  "blend_mode": "normal",
+                  "border_radius": 0,
+                  "rotation": 0,
+                  "exportable": false
+                },
+                {
+                  "id": "5e33f8e1b5c7427b6ae8b05b",
+                  "source_id": "71A700B3-749A-4B4D-8D57-9268CB43C90C",
+                  "type": "group",
+                  "name": "ic_18",
+                  "rect": {
+                    "y": 72,
+                    "x": 147,
+                    "width": 26,
+                    "height": 26,
+                    "absolute": { "x": 175, "y": 2073 }
+                  },
+                  "fills": [],
+                  "borders": [],
+                  "shadows": [],
+                  "opacity": 1,
+                  "blend_mode": "normal",
+                  "border_radius": 0,
+                  "rotation": 0,
+                  "exportable": false,
+                  "layers": [
+                    {
+                      "id": "5e33f8e1b5c7427b6ae8b05c",
+                      "source_id": "3FA478C6-7377-4BDA-B7B1-FD95E1DC64D4",
+                      "type": "group",
+                      "name": "Group 3",
+                      "rect": {
+                        "y": 0,
+                        "x": 0,
+                        "width": 26,
+                        "height": 26,
+                        "absolute": { "x": 175, "y": 2073 }
+                      },
+                      "fills": [],
+                      "borders": [],
+                      "shadows": [],
+                      "opacity": 1,
+                      "blend_mode": "normal",
+                      "border_radius": 0,
+                      "rotation": 0,
+                      "exportable": false,
+                      "layers": [
+                        {
+                          "id": "5e33f8e1b5c7427b6ae8b05d",
+                          "source_id": "2545F845-B98F-430E-8D63-AB88DDE7EA9B",
+                          "type": "shape",
+                          "name": "Oval",
+                          "rect": {
+                            "y": 0,
+                            "x": 0,
+                            "width": 26,
+                            "height": 26,
+                            "absolute": { "x": 175, "y": 2073 }
+                          },
+                          "fills": [
+                            {
+                              "type": "color",
+                              "color": { "r": 111, "g": 111, "b": 111, "a": 1 },
+                              "opacity": 1,
+                              "blend_mode": "normal"
+                            }
+                          ],
+                          "borders": [],
+                          "shadows": [],
+                          "opacity": 1,
+                          "blend_mode": "normal",
+                          "border_radius": 0,
+                          "rotation": 0,
+                          "exportable": false
+                        },
+                        {
+                          "id": "5e33f8e1b5c7427b6ae8b05e",
+                          "source_id": "C8F6B374-2D75-4201-AEE6-626FA5AF0C46",
+                          "type": "shape",
+                          "name": "18+",
+                          "rect": {
+                            "y": 8,
+                            "x": 4,
+                            "width": 18,
+                            "height": 9,
+                            "absolute": { "x": 179, "y": 2081 }
+                          },
+                          "fills": [
+                            {
+                              "type": "color",
+                              "color": { "r": 0, "g": 0, "b": 0, "a": 1 },
+                              "opacity": 1,
+                              "blend_mode": "normal"
+                            }
+                          ],
+                          "borders": [],
+                          "shadows": [],
+                          "opacity": 1,
+                          "blend_mode": "normal",
+                          "border_radius": 0,
+                          "rotation": 0,
+                          "exportable": false
+                        },
+                        {
+                          "id": "5e33f8e1b5c7427b6ae8b05f",
+                          "source_id": "600F05CA-7890-4B04-9653-8C61235EEA19",
+                          "type": "shape",
+                          "name": "ic_18",
+                          "rect": {
+                            "y": 0,
+                            "x": 0,
+                            "width": 26,
+                            "height": 26,
+                            "absolute": { "x": 175, "y": 2073 }
+                          },
+                          "fills": [],
+                          "borders": [],
+                          "shadows": [],
+                          "opacity": 1,
+                          "blend_mode": "normal",
+                          "border_radius": 0,
+                          "rotation": 0,
+                          "exportable": true
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "5e33f8e1b5c7427b6ae8b060",
+              "source_id": "450C8AD1-7768-493D-984C-508A77DB48D5",
+              "type": "group",
+              "name": "arrow-top",
+              "rect": {
+                "y": 0,
+                "x": 162,
+                "width": 50,
+                "height": 56,
+                "absolute": { "x": 163, "y": 1770 }
+              },
+              "fills": [],
+              "borders": [],
+              "shadows": [],
+              "opacity": 1,
+              "blend_mode": "normal",
+              "border_radius": 0,
+              "rotation": 0,
+              "exportable": false,
+              "layers": [
+                {
+                  "id": "5e33f8e1b5c7427b6ae8b061",
+                  "source_id": "7A07F681-07C9-4C3F-B26C-C37DC4E3D907",
+                  "type": "shape",
+                  "name": "Rectangle",
+                  "rect": {
+                    "y": 0,
+                    "x": 0,
+                    "width": 50,
+                    "height": 56,
+                    "absolute": { "x": 163, "y": 1770 }
+                  },
+                  "fills": [
+                    {
+                      "type": "color",
+                      "color": { "r": 0, "g": 0, "b": 0, "a": 1 },
+                      "opacity": 1,
+                      "blend_mode": "normal"
+                    }
+                  ],
+                  "borders": [],
+                  "shadows": [],
+                  "opacity": 0.6,
+                  "blend_mode": "normal",
+                  "border_radius": 0,
+                  "rotation": 0,
+                  "exportable": false
+                },
+                {
+                  "id": "5e33f8e1b5c7427b6ae8b062",
+                  "source_id": "4B66BE3B-AAFB-44D6-953C-BA0C716D1CA6",
+                  "type": "group",
+                  "name": "arrow-top",
+                  "rect": {
+                    "y": 0,
+                    "x": 8,
+                    "width": 34,
+                    "height": 34,
+                    "absolute": { "x": 171, "y": 1770 }
+                  },
+                  "fills": [],
+                  "borders": [],
+                  "shadows": [],
+                  "opacity": 1,
+                  "blend_mode": "normal",
+                  "border_radius": 0,
+                  "rotation": 0,
+                  "exportable": true,
+                  "layers": [
+                    {
+                      "id": "5e33f8e1b5c7427b6ae8b063",
+                      "source_id": "04173434-F984-4871-8E4C-90BB05EC2A5B",
+                      "type": "shape",
+                      "name": "Path",
+                      "rect": {
+                        "y": 13,
+                        "x": 10,
+                        "width": 15,
+                        "height": 8,
+                        "absolute": { "x": 181, "y": 1783 }
+                      },
+                      "fills": [
+                        {
+                          "type": "color",
+                          "color": { "r": 255, "g": 255, "b": 255, "a": 1 },
+                          "opacity": 1,
+                          "blend_mode": "normal"
+                        }
+                      ],
+                      "borders": [],
+                      "shadows": [],
+                      "opacity": 1,
+                      "blend_mode": "normal",
+                      "border_radius": 0,
+                      "rotation": 0,
+                      "exportable": false
+                    }
+                  ],
+                  "component_name": "icon/line/arrow-top"
+                },
+                {
+                  "id": "5e33f8e1b5c7427b6ae8b064",
+                  "source_id": "ACBFDE1A-8F05-4318-BCB1-15DC7C918400",
+                  "type": "text",
+                  "name": "Go Top",
+                  "rect": {
+                    "y": 34,
+                    "x": 6,
+                    "width": 38,
+                    "height": 14,
+                    "absolute": { "x": 169, "y": 1804 }
+                  },
+                  "fills": [],
+                  "borders": [],
+                  "shadows": [],
+                  "opacity": 1,
+                  "blend_mode": "normal",
+                  "border_radius": 0,
+                  "rotation": 0,
+                  "exportable": false,
+                  "content": "Go Top",
+                  "text_styles": [
+                    {
+                      "range": { "location": 0, "length": 6 },
+                      "style": {
+                        "postscript_name": "Roboto-Regular",
+                        "font_family": "Roboto",
+                        "font_size": 12,
+                        "font_weight": 400,
+                        "font_style": "normal",
+                        "font_stretch": 1,
+                        "text_align": "center",
+                        "color": { "r": 97, "g": 97, "b": 97, "a": 1 }
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "component_name": "bar/Footer/mobile_phase0"
+    }
+  ],
+  "assets": [
+    {
+      "layer_source_id": "FD0FA04D-FCFF-4478-AC3E-0374A9D8BD1A",
+      "layer_name": "mg_asia",
+      "display_name": "mg-asia",
+      "contents": [
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/6DB7FDEC-CC47-43B2-B30E-6DFCCBA020A1.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 2
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/D876D812-A6E1-4802-8D72-4EF6F3B55F16.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "jpg",
+          "density": 2
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/A9AE0D8F-D725-4BD4-8BDA-9044D3BCDB7F.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "jpg",
+          "density": 3
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/FFE2EB4F-A9EE-47B1-A402-792B9C9310EB.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 3
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/2768FE73-FE54-4FBA-9D1D-F93DAAE348B1.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 1
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/761D7401-FB6C-4A80-8805-C31BD0BFC126.jpg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "jpg",
+          "density": 1
+        }
+      ]
+    },
+    {
+      "layer_source_id": "48E02275-F6E9-48AD-AE8B-C48363B57F06",
+      "layer_name": "ic_menu",
+      "display_name": "ic-menu",
+      "contents": [
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/B8D842B3-4F51-44F7-B4BD-06C7C4323933.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 1
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/45B87714-9500-48D0-A3BA-02F59D6FC2FD.svg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "svg",
+          "density": 1
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/250AB828-0862-4ADE-90BE-D9F1A66BA9F3.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 2
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/4DEF7936-8EDA-4840-99DB-889C495C0408.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 3
+        }
+      ]
+    },
+    {
+      "layer_source_id": "9A4C5DA7-D077-414D-80A2-68A1809E2BA7",
+      "layer_name": "ic_login",
+      "display_name": "ic-login",
+      "contents": [
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/0CD9CC85-DB24-4CEB-B650-AEDBC0060CE6.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 3
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/7B44C29A-2971-49DF-9EF9-01FCE0335C75.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 2
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/FE71CBE8-4BF7-4292-8D03-4240EEB33156.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 1
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/D15530C8-7316-42B0-85EE-FC64E7B607DB.svg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "svg",
+          "density": 1
+        }
+      ]
+    },
+    {
+      "layer_source_id": "600F05CA-7890-4B04-9653-8C61235EEA19",
+      "layer_name": "ic_18",
+      "display_name": "ic-18",
+      "contents": [
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/1EF68CE2-B3A5-4A1F-BFCC-F245D412D5FE.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 2
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/C5F215CC-68ED-4EF6-B8C6-1524C0CFA85D.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 3
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/9CDC456D-E37E-4C7B-BB2A-B59A73BFCE28.svg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "svg",
+          "density": 1
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/B6AD5344-0C5F-451C-9D75-2A0A871E8D67.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 1
+        }
+      ]
+    },
+    {
+      "layer_source_id": "4B66BE3B-AAFB-44D6-953C-BA0C716D1CA6",
+      "layer_name": "arrow-top",
+      "display_name": "arrow-top",
+      "contents": [
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/B1B5A2CA-9637-423D-AF01-B4475B1B7ADD.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 2
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/9280AAAB-8C3B-49E1-9CB3-D73676783AD6.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 3
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/4310868F-EED8-4D03-86A0-966F0894987F.svg?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "svg",
+          "density": 1
+        },
+        {
+          "url": "https://public-cdn.zeplin.dev/5da919843cd929655f943016/assets/76F639AC-2A59-4384-B708-2C1F557B6DA1.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wdWJsaWMtY2RuLnplcGxpbi5kZXYvNWRhOTE5ODQzY2Q5Mjk2NTVmOTQzMDE2L2Fzc2V0cy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjIxNTYzNDczfX19XX0_&Key-Pair-Id=APKAJKD6BRIMESUCGIPA&Signature=JXXqh92dLsU5VF70nf1IVMKJw66x1nXRFaZw55nrDjxHbO9BPn7tqK3iGgBId-TI9cLZMmvUYQ~MTjDhm1UJyRpnahvaiVkYe3if9d11kJ5Ai0mfOFiO-3uuSwd0rOB6GMAq7XR4zJB1LZYMHx-EvDZ1SXkQ6RTBHUfcrYmfqrcmDcBOT4ar0j3cJsycr2wSCfa30YLaeHEFZMNpMnogzwilRfk9M8yks3Uh8vWDux5Nm~6PKmhKK0aveHPCv6~mEU4ewFd8iIpuM5F4QuXFg4O-gvO~2dhvnWiSplFJHebsbXAHkz-pJnKgZeAplGInVBhVYjWUittOM-RAvrrH5g__",
+          "format": "png",
+          "density": 1
+        }
+      ]
+    }
+  ]
+}

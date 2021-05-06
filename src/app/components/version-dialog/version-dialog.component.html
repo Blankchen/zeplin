@@ -1,0 +1,37 @@
+<h2 mat-dialog-title>
+  {{ data.title }}
+</h2>
+<mat-dialog-content class="mat-typography">
+  <mat-tab-group>
+    <mat-tab label="Text">
+      <pre class="text-section"><span
+        *ngFor="let item of data.diffData.text"
+        class="diff"
+        [ngClass]="item.added ? 'added' : item.removed ? 'deleted' : ''"
+        matTooltip="Click to copy text"
+        (click)="copy(item.value)"
+      >{{ item.value }}</span></pre>
+    </mat-tab>
+    <mat-tab *ngIf="data.diffData.image.isDiffExist" label="Image">
+      <div class="image-section">
+        <div class="image-list deleted">
+          <h4>Deleted</h4>
+          <div *ngFor="let item of data.diffData.image.deleted">
+            {{ item.display_name }}
+            <img [src]="item.contents && item.contents[0] ? item.contents[0].url : ''"/>
+          </div>
+        </div>
+        <div class="image-list added">
+          <h4>Added</h4>
+          <div *ngFor="let item of data.diffData.image.added">
+            {{ item.display_name }}
+            <img [src]="item.contents && item.contents[0] ? item.contents[0].url : ''"/>
+          </div>
+        </div>
+      </div>
+    </mat-tab>
+  </mat-tab-group>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Cancel</button>
+</mat-dialog-actions>
